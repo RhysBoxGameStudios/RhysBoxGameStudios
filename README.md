@@ -60,4 +60,15 @@
 <div align="center">
   <sub>© RhysBox Game Studios — Built with ❤️ and Three.js</sub>
 </div>
+
+---
+
+## License & Trademark
+
+**MIT License** — Copyright © 2026 RhysBox Game Studios. All rights reserved.
+
+"RhysBox Game Studios", "Build Your Own Solar System", "Boxing Fury", "Realm Walker", "City Architect", and "Space Command" are trademarks of RhysBox Game Studios. All related logos, game assets, and branding are the exclusive property of RhysBox Game Studios.
+
+All games are licensed under the [MIT License](LICENSE) — see individual repositories for details.
+
 </div>
